@@ -1,0 +1,4 @@
+inicio
+======
+
+practicas de inicio
